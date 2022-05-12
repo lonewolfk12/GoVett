@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952954352752",
+    "project_id": "govet-b5fac",
+    "storage_bucket": "govet-b5fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952954352752:android:869583917269e518ffb0b5",
+        "android_client_info": {
+          "package_name": "com.example.govett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952954352752-t7645bsdbuogjqb4g5p8126k4ok25v5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCj-D7rVrMN4N-4mLQ9MOtY_XQQM7UvOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952954352752-t7645bsdbuogjqb4g5p8126k4ok25v5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

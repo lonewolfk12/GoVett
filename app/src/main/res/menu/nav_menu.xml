@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+    android:id="@+id/nav_home"
+    android:icon="@drawable/home_32px"
+    android:title="Menú"/>
+
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/message_32px"
+        android:title="Mensaje"/>
+
+
+    <item
+        android:id="@+id/nav_reg"
+        android:icon="@drawable/pets_50px"
+        android:title="Registro de la mascota"/>
+
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/google_maps_32px"
+        android:title="Mapa"/>
+
+    <item
+        android:id="@+id/nav_edit"
+        android:icon="@drawable/registration_32px"
+        android:title="Editar Perfil"/>
+    <item
+        android:id="@+id/nav_config"
+        android:icon="@drawable/settings_30px"
+        android:title="Configuraciones"/>
+    <item
+        android:id="@+id/nav_coment"
+        android:icon="@drawable/comments_32px"
+        android:title="Comentarios"/>
+
+
+
+    <item android:title="Perfil">
+
+
+    <menu>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/log_32px"
+            android:title="Salir"/>
+    </menu>
+</item>
+
+
+
+    <item android:title="Comunicación">
+        <menu>
+            <item
+                android:id="@+id/nav_compartir"
+                android:icon="@drawable/share_rounded_32px"
+                android:title="Compartir"/>
+        </menu>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
